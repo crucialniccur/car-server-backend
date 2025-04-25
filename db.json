@@ -717,16 +717,5 @@
     }
   ],
   
-  "users": [
-    {
-      "id": "ca63",
-      "firstName": "Brian",
-      "lastName": "Okello",
-      "email": "okellobrian18@gmail.com",
-      "password": "123",
-      "favorites": [
-        "dfc2"
-      ]
-    }
-  ]
+  "users": []
 }
